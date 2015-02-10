@@ -1,0 +1,939 @@
+var x = {
+  "rss": {
+    "-xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+    "-xmlns:wfw": "http://wellformedweb.org/CommentAPI/",
+    "-xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "-xmlns:atom": "http://www.w3.org/2005/Atom",
+    "-xmlns:sy": "http://purl.org/rss/1.0/modules/syndication/",
+    "-xmlns:slash": "http://purl.org/rss/1.0/modules/slash/",
+    "-version": "2.0",
+    "channel": {
+      "title": "mankind",
+      "atom:link": {
+        "-href": "http://mankind.com/feed/",
+        "-rel": "self",
+        "-type": "application/rss+xml"
+      },
+      "link": "http://mankind.com",
+      "description": "offering up the modern web",
+      "lastBuildDate": "Tue, 13 May 2014 18:53:19 +0000",
+      "language": "en-US",
+      "sy:updatePeriod": "hourly",
+      "sy:updateFrequency": "1",
+      "generator": "http://wordpress.org/?v=3.9.1",
+      "item": [
+        {
+          "title": "If Scotch.IO Were a Man, I’d Marry Him.",
+          "link": "http://mankind.com/777/markallenhall/if-scotch-io-were-a-man-id-marry-him/",
+          "comments": "http://mankind.com/777/markallenhall/if-scotch-io-were-a-man-id-marry-him/#comments",
+          "pubDate": "Tue, 13 May 2014 18:53:19 +0000",
+          "dc:creator": "Mark Allen Hall",
+          "category": "Information Architecture",
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "http://mankind.com/?p=777"
+          },
+          "description": "Sometimes you run across someone who completely inhabits your own world view. He completely gets you. Knows where you&#8217;re coming from. Knows where you&#8217;ve been. He brings a warm, familiar, and happy feeling, like a country song that ends well. Scotch.IO, the web site, is like that for me. Scotch.IO is the site of a design and [&#8230;]",
+          "content:encoded": "<p><a href=\"http://mankind.com/wordpress/wp-content/uploads/scotch-glass.jpg\"><img class=\"alignleft wp-image-792 size-medium\" src=\"http://mankind.com/wordpress/wp-content/uploads/scotch-glass-295x300.jpg\" alt=\"scotch-glass\" width=\"295\" height=\"300\" /></a>Sometimes you run across someone who completely inhabits your own world view. He completely gets you. Knows where you&#8217;re coming from. Knows where you&#8217;ve been. He brings a warm, familiar, and happy feeling, like a country song that ends well.</p>
+<p><a href=\"http://scotch.io\">Scotch.IO</a>, the web site, is like that for me.</p>
+<p><a href=\"http://scotch.io\">Scotch.IO</a> is the site of a design and development firm out of Las Vegas and D.C.</p>
+<p>What completely wins me over &#8212; and this is key &#8212; is that <a href=\"http://scotch.io\">Scotch.IO</a> loves to share. It shows me what&#8217;s new. It shows me how to do things. <a href=\"http://scotch.io\">Scotch.IO</a> makes me a better person.  The site is about  tips and tutorials biased toward around the MEAN stack and modern Web development tools and techniques and everything I, myself, hold dear.</p>
+<p>The content is all original, but it&#8217;s all so consistently excellent and on the mark that it seems curated. The perfect web site for me. I&#8217;m in love.</p>
+",
+          "wfw:commentRss": "http://mankind.com/777/markallenhall/if-scotch-io-were-a-man-id-marry-him/feed/",
+          "slash:comments": "0"
+        },
+        {
+          "title": "Top 3 Executive Summaries: How Twitter Works",
+          "link": "http://mankind.com/781/markallenhall/top-3-executive-summaries-how-twitter-works/",
+          "comments": "http://mankind.com/781/markallenhall/top-3-executive-summaries-how-twitter-works/#comments",
+          "pubDate": "Tue, 13 May 2014 01:15:46 +0000",
+          "dc:creator": "Mark Allen Hall",
+          "category": "Information Architecture",
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "http://mankind.com/?p=781"
+          },
+          "description": "There are technologies I sometimes purposely avoid working with because, knowing myself, I&#8217;ll want to learn more and more and I&#8217;ll download, install, and play with all the libraries and frameworks and I&#8217;ll Google all the major contributors and check out their other GitHub repositories and maybe contribute an open-source thing-that-hasn&#8217;t-been-done-with-it-yet and generally spend a long [&#8230;]",
+          "content:encoded": "<p><a href=\"http://mankind.com/wordpress/wp-content/uploads/twitter.jpg\"><img class=\"alignleft size-full wp-image-786\" src=\"http://mankind.com/wordpress/wp-content/uploads/twitter.jpg\" alt=\"twitter\" width=\"225\" height=\"225\" /></a>There are technologies I sometimes purposely avoid working with because, knowing myself, I&#8217;ll want to learn more and more and I&#8217;ll download, install, and play with all the libraries and frameworks and I&#8217;ll Google all the major contributors and check out their other GitHub repositories and maybe contribute an open-source thing-that-hasn&#8217;t-been-done-with-it-yet and generally spend a long and furious and obsessive amount of time on something that won&#8217;t immediately help pay the mortgage.</p>
+<p>Twitter was one of these</p>
+<p>But recent projects required working with the Twitter Platform and I needed to know what I didn&#8217;t know. Curated list follows:</p>
+<p>1. <span style=\"color: #000000;\">Jessica Hische&#8217;s </span>patient and easy walkthrough by example of the twitter protocol. It&#8217;ll make some sense after reading this.</p>
+<p style=\"padding-left: 30px;\"><a href=\"http://www.momthisishowtwitterworks.com/\">http://www.momthisishowtwitterworks.com/</a></p>
+<p>2. Explania&#8217;s great 3-minute animated tutorial:</p>
+<p style=\"padding-left: 30px;\"><a href=\"http://www.explania.com/en/channels/technology/detail/twitter-explained\">http://www.explania.com/en/channels/technology/detail/twitter-explained</a></p>
+<p>3. For the executive who needs at least to recognize the buzzwords, so he can nod in understanding at the appropriate times during the developers&#8217; stand-ups:</p>
+<p style=\"padding-left: 30px;\"><a href=\"https://dev.twitter.com/docs\">https://dev.twitter.com/docs</a></p>
+",
+          "wfw:commentRss": "http://mankind.com/781/markallenhall/top-3-executive-summaries-how-twitter-works/feed/",
+          "slash:comments": "0"
+        },
+        {
+          "title": "IBM’s Codename: BlueMix – Part ‘Bitnami’, Part ‘Google Apps’, Part ‘Yeoman’, Part ‘Apigee’, Mostly ‘Things’",
+          "link": "http://mankind.com/779/markallenhall/ibms-codename-bluemix-part-bitnami-part-google-apps-part-yeoman-part-apigee-mostly-things/",
+          "comments": "http://mankind.com/779/markallenhall/ibms-codename-bluemix-part-bitnami-part-google-apps-part-yeoman-part-apigee-mostly-things/#comments",
+          "pubDate": "Fri, 09 May 2014 10:45:02 +0000",
+          "dc:creator": "Mark Allen Hall",
+          "category": "Information Architecture",
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "http://mankind.com/?p=779"
+          },
+          "description": "The Internet of Things is more than a meme: check out Codename: BlueMix, Node-RED, and Temboo.",
+          "content:encoded": "<p>I started playing with IBM&#8217;s Codename: BlueMix, thinking it was along the lines of AWS or Azure.  But it seems to want to be at an abstraction above all that. More of a Google Apps for mashups, with a Binami-like selection of service components, and Yeoman-like framework generation.</p>
+<p>This led me to discover <a href=\"nodered.org\" target=\"_blank\">Node-RED</a>, one of BlueMix&#8217;s featured app templates.  Here, there is a claim on the Internet of Things space, supplying a visual routing of data through hardware, apps, services, deployment systems &#8212; whatever can be called a &#8216;Thing&#8217; and can connect to the Internet.   <a title=\"Temboo\" href=\"https://www.temboo.com/\" target=\"_blank\">Temboo</a> seems to be based on Node-Red and provides a library of these Things, with only the &#8216;what&#8217; inputs/outputs/configuration exposed and the &#8216;how&#8217; pretty much black-boxed for your convenience.</p>
+",
+          "wfw:commentRss": "http://mankind.com/779/markallenhall/ibms-codename-bluemix-part-bitnami-part-google-apps-part-yeoman-part-apigee-mostly-things/feed/",
+          "slash:comments": "3"
+        },
+        {
+          "title": "3 Steps: The Simplest Way to Create a Link in a Google Doc",
+          "link": "http://mankind.com/767/markallenhall/3-steps-the-simplest-way-to-create-a-link-in-a-google-doc/",
+          "comments": "http://mankind.com/767/markallenhall/3-steps-the-simplest-way-to-create-a-link-in-a-google-doc/#comments",
+          "pubDate": "Sun, 20 Apr 2014 18:26:20 +0000",
+          "dc:creator": "Mark Allen Hall",
+          "category": "Information Architecture",
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "http://mankind.com/?p=767"
+          },
+          "description": "Highlight  the text you want to link. Right-click and choose &#8220;Link&#8230;&#8221; An in-place editor popup will appear, with some choices for your target URL. Select the appropriate one and click apply.",
+          "content:encoded": "<ol>
+<li><a href=\"http://mankind.com/wordpress/wp-content/uploads/google-docs-quick-link.png\"><img class=\"alignleft  wp-image-770\" alt=\"google-docs-quick-link\" src=\"http://mankind.com/wordpress/wp-content/uploads/google-docs-quick-link.png\" width=\"255\" height=\"224\" /></a>Highlight  the text you want to link.</li>
+<li>Right-click and choose &#8220;Link&#8230;&#8221;</li>
+<li>An in-place editor popup will appear, with some choices for your target URL. Select the appropriate one and click apply.</li>
+</ol>
+",
+          "wfw:commentRss": "http://mankind.com/767/markallenhall/3-steps-the-simplest-way-to-create-a-link-in-a-google-doc/feed/",
+          "slash:comments": "1"
+        },
+        {
+          "title": "Top 3 Things to Know about Iproute2",
+          "link": "http://mankind.com/747/markallenhall/top-3-things-to-know-about-iproute2/",
+          "comments": "http://mankind.com/747/markallenhall/top-3-things-to-know-about-iproute2/#comments",
+          "pubDate": "Sat, 08 Mar 2014 21:25:16 +0000",
+          "dc:creator": "Mark Allen Hall",
+          "category": [
+            "Linux",
+            "Streaming Video"
+          ],
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "http://mankind.com/?p=747"
+          },
+          "description": "It&#8217;s the modern way to control TCP/IP networking and traffic in Linux. As an analogy, Iproute2 is to Net-tools as Git is to Clear Case. Net-tools is deprecated. Iproute2 consolidates the net-tools&#8217; commands into the &#8220;ip&#8221; command and takes it to the next level. See the wikipedia entry. If you invoke &#8220;ip&#8221; from your Linux [&#8230;]",
+          "content:encoded": "<ol>
+<li>It&#8217;s the modern way to control TCP/IP networking and traffic in Linux. As an analogy, Iproute2 is to Net-tools as Git is to Clear Case.</li>
+<li>Net-tools is deprecated. Iproute2 consolidates the net-tools&#8217; commands into the &#8220;ip&#8221; command and takes it to the next level. See the <a title=\"Iproute2\" href=\"http://en.wikipedia.org/wiki/Iproute2\">wikipedia entry</a>.</li>
+<li>If you invoke &#8220;ip&#8221; from your Linux command line and get a response, you have iproute2.</li>
+</ol>
+<pre>$ ip
+Usage: ip [ OPTIONS ] OBJECT { COMMAND | help }
+       ip [ -force ] -batch filename
+where  OBJECT := { link | addr | addrlabel | route | rule | neigh | ntable |
+                   tunnel | tuntap | maddr | mroute | mrule | monitor | xfrm |
+                   netns }
+       OPTIONS := { -V[ersion] | -s[tatistics] | -d[etails] | -r[esolve] |
+                    -f[amily] { inet | inet6 | ipx | dnet | link } |
+                    -l[oops] { maximum-addr-flush-attempts } |
+                    -o[neline] | -t[imestamp] | -b[atch] [filename] |
+                    -rc[vbuf] [size]}</pre>
+<h2 class=\"brush: bash; gutter: false\" style=\"padding-left: 30px;\">Curated Links</h2>
+<address><a title=\"Some useful command with iproute2\" href=\"http://linuxaria.com/howto/useful-command-of-iproute2?lang=en\" target=\"_blank\">Some Useful Commands</a></address>
+<address class=\"brush: bash; gutter: false\"><a title=\"IPROUTE2 Utility Suite Howto\" href=\"http://www.policyrouting.org/iproute2.doc.html\" target=\"_blank\">How To</a></address>
+<address class=\"brush: bash; gutter: false\"><a title=\"IP Command Reference\" href=\"http://linux-ip.net/gl/ip-cref/ip-cref.html\" target=\"_blank\">IP Command Reference</a></address>
+<address><a title=\"Load Balancing and Shaping by Realms\" href=\"http://www.linuxfoundation.org/collaborate/workgroups/networking/iproute2_examples\" target=\"_blank\">Load Balancing and Shaping by Realms Example </a></address>
+<address><a title=\"Socket Statistics on Linux\" href=\"http://linuxaria.com/pills/ss-iproute2-linux?lang=en\" rel=\"bookmark\">Socket Statistics on Linux</a></address>
+<p>&nbsp;</p>
+",
+          "wfw:commentRss": "http://mankind.com/747/markallenhall/top-3-things-to-know-about-iproute2/feed/",
+          "slash:comments": "0"
+        },
+        {
+          "title": "The Return of Sockets.",
+          "link": "http://mankind.com/679/markallenhall/the-return-of-sockets/",
+          "comments": "http://mankind.com/679/markallenhall/the-return-of-sockets/#comments",
+          "pubDate": "Thu, 27 Feb 2014 23:10:39 +0000",
+          "dc:creator": "Mark Allen Hall",
+          "category": "Information Architecture",
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "http://mankind.com/?p=679"
+          },
+          "description": "Two decades ago, I had to quickly integrate a number of individual research applications under a cohesive management interface. I ended up spawning tasks and streaming results from one module to another through BSD sockets. There really was no other solution. It was quick to do and the performance of the system was incredible. Then [&#8230;]",
+          "content:encoded": "<p><a href=\"http://mankind.com/wordpress/wp-content/uploads/zmq.png\"><img class=\"alignleft size-full wp-image-683\" title=\"zmq\" src=\"http://mankind.com/wordpress/wp-content/uploads/zmq.png\" alt=\"\" width=\"140\" height=\"134\" /></a>Two decades ago, I had to quickly integrate a number of individual research applications under a cohesive management interface. I ended up spawning tasks and streaming results from one module to another through BSD sockets. There really was no other solution. It was quick to do and the performance of the system was incredible.</p>
+<p>Then things became heavy with CORBA and SOAP and the like and it felt like the programming world became more monolithic and bureaucratic and very heavy.</p>
+<p>It&#8217;s great to see the return of sockets and streaming to the mainstream. I think machine-to-machine communication is going to get fun again.</p>
+<p>Check this out:<a title=\"ØMQ\" href=\" http://zeromq.org/\"> http://zeromq.org/</a></p>
+<p><a title=\"MQTT over WebSockets\" href=\"http://architects.dzone.com/articles/mqtt-over-websockets \" target=\"_blank\">http://architects.dzone.com/articles/mqtt-over-websockets </a></p>
+",
+          "wfw:commentRss": "http://mankind.com/679/markallenhall/the-return-of-sockets/feed/",
+          "slash:comments": "0"
+        },
+        {
+          "title": "Software Engineering is to Effectiveness as Computer Science is to Efficiency",
+          "link": "http://mankind.com/667/admin/software-engineering-is-to-effectiveness-as-computer-science-is-to-efficiency/",
+          "comments": "http://mankind.com/667/admin/software-engineering-is-to-effectiveness-as-computer-science-is-to-efficiency/#comments",
+          "pubDate": "Tue, 21 Jan 2014 23:13:57 +0000",
+          "dc:creator": "Mank Ind",
+          "category": "Information Architecture",
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "http://mankind.com/?p=667"
+          },
+          "content:encoded": "<p><img class=\"alignleft\" title=\"A and Os\" src=\"http://www.integratorsacademy.com/wp-content/uploads/2013/11/HDBaseT-vs-HDMI-Apples-and-Oranges.jpg\" alt=\"\" width=\"480\" height=\"360\" /></p>
+",
+          "wfw:commentRss": "http://mankind.com/667/admin/software-engineering-is-to-effectiveness-as-computer-science-is-to-efficiency/feed/",
+          "slash:comments": "0"
+        },
+        {
+          "title": "Seriously, in the real word, when was the last time you opened a folder and found another folder inside — and another folder inside of that?",
+          "link": "http://mankind.com/740/markallenhall/seriously-in-the-real-word-when-was-the-last-time-you-opened-a-folder-and-found-another-folder-inside-and-another-folder-inside-of-that/",
+          "comments": "http://mankind.com/740/markallenhall/seriously-in-the-real-word-when-was-the-last-time-you-opened-a-folder-and-found-another-folder-inside-and-another-folder-inside-of-that/#comments",
+          "pubDate": "Thu, 02 Jan 2014 19:11:30 +0000",
+          "dc:creator": "Mark Allen Hall",
+          "category": "Information Architecture",
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "http://mankind.com/?p=740"
+          },
+          "wfw:commentRss": "http://mankind.com/740/markallenhall/seriously-in-the-real-word-when-was-the-last-time-you-opened-a-folder-and-found-another-folder-inside-and-another-folder-inside-of-that/feed/",
+          "slash:comments": "1"
+        },
+        {
+          "title": "It’s Promises, All the Way Down",
+          "link": "http://mankind.com/654/markallenhall/its-promises-all-the-way-down/",
+          "comments": "http://mankind.com/654/markallenhall/its-promises-all-the-way-down/#comments",
+          "pubDate": "Wed, 01 Jan 2014 22:43:22 +0000",
+          "dc:creator": "Mark Allen Hall",
+          "category": "Information Architecture",
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "http://mankind.com/?p=654"
+          },
+          "description": "I&#8217;ve been working with AngularJS and using its Promises for a while now. I tend to think of a Promise as an IOU that Angular hands me. No&#8230;  more as an empty box for data that Angular has yet to retrieve. Often the data must be retrieved from the Internet, or a database, or some [&#8230;]",
+          "content:encoded": "<p><a href=\"http://mankind.com/wordpress/wp-content/uploads/turtles-all-the-way-down.jpg\"><img class=\"alignleft size-thumbnail wp-image-657\" title=\"turtles-all-the-way-down\" src=\"http://mankind.com/wordpress/wp-content/uploads/turtles-all-the-way-down-150x150.jpg\" alt=\"\" width=\"150\" height=\"150\" /></a>I&#8217;ve been working with AngularJS and using its Promises for a while now.</p>
+<p>I tend to think of a Promise as an IOU that Angular hands me. No&#8230;  more as an empty box for data that Angular has yet to retrieve. Often the data must be retrieved from the Internet, or a database, or some other place, all too far away in time &#8212;  for a snappy, no-lag UI/X that people expect nowadays &#8212; to rely on.</p>
+<p>In Angular, I don&#8217;t need the data before I start building a view with it.  I  use its empty-box Promise in stead.</p>
+<p>The thing is,  it is Angular that first hands me the empty Promise box in response to, say, a database request.</p>
+<p>I choose, at some point in my program, to hand the Promise box, unopened, back to Angular to build a web page screen around the boxes contents.</p>
+<p>It is Angular that builds the page, with everything but the data. It is Angular that quietly stuffs the data in the Promise box when it finally gets the real thing. And  it is Angular that rather dramatically pulls the true data out of  the box and pops it on the screen.</p>
+<p>I never had to look in the box.</p>
+<p>Promises work great and can remain forever unseen under the covers of the Angular framework.  Being able to move on in the programming sequence and create your typical CRUD lists and forms based on objects as-yet unrealized feels good for me as UI programmer. It feels good for me and it feels good for the user. It just flows.</p>
+<p>But I want to provide an experience that exceeds the typical CRUD displays. And this may mean working with the real data of the promises.</p>
+<p>I want to know when the actual data arrives, just as Angular does behind the scenes.  To do this, I take the Promise into my own hands.  I get $promise from the resource object and call the &#8220;$promise.then&#8221;  method, passing in my own call-back function for the promise system to call back if and when it retrieves the data successfully. As below, I make it clear that  I want my data mining task  to be launched with the true data in the call below, and I move on to complete other event set-ups.</p>
+<pre class=\"brush: javascript; gutter: false\">resource.$promise.then(function(trueData){
+  // No more promises.
+  dataMine(trueData);
+}</pre>
+<p>And then I wait. I wait for the &#8216;then&#8217;.  And when the &#8216;then&#8217; data arrives, I move on. In real time.  Spawning a task that is based on that data.</p>
+<p>In my own practice,  there is always an end to this chain of Futures.</p>
+<p>But I got to thinking, how nice would it be for an entire framework or language to use only promises, from end to end? My technique of  triggering  certain tasks only when the real data arrives wouldn&#8217;t make sense.  I would never need to wait; I would assume I have a promise. I would blithely move forward, deeper in the code, spawning each task based on a promise, carrying this on to the program&#8217;s nether end.</p>
+<p>It would be Promises, all the way down.</p>
+<p>So then, why can&#8217;t I do that now? With what I&#8217;ve got? Is this kiting the future?</p>
+<p>Stay tuned&#8230;</p>
+<p>&nbsp;</p>
+",
+          "wfw:commentRss": "http://mankind.com/654/markallenhall/its-promises-all-the-way-down/feed/",
+          "slash:comments": "0"
+        },
+        {
+          "title": "Underscore.js Signifies the Modern Web",
+          "link": "http://mankind.com/616/markallenhall/underscore-js-signifies-the-modern-web/",
+          "comments": "http://mankind.com/616/markallenhall/underscore-js-signifies-the-modern-web/#comments",
+          "pubDate": "Wed, 06 Nov 2013 19:12:39 +0000",
+          "dc:creator": "Mark Allen Hall",
+          "category": "Information Architecture",
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "http://mankind.com/?p=616"
+          },
+          "description": "_Any programmer doing heavy-duty JavaScript coding will have discovered underscore.js by now. Whenever I create a block of code and think that there&#8217;s got to be a more elegant way, I find that underscore has the utility. I still find myself surprised and delighted when I discover yet another, needed function on that list that I had overlooked [&#8230;]",
+          "content:encoded": "<p><a href=\"http://www.moderndesign.org/2011/05/fashion-shoot-at-pierre-koenig-case.html\"><img class=\"alignleft size-thumbnail wp-image-625\" title=\"Thanks to Aaron Leitz; Pierre Koenig in Elle at Aaron Leitz Photography.\" src=\"http://mankind.com/wordpress/wp-content/uploads/koenig_case_study-150x150.jpg\" alt=\"\" width=\"150\" height=\"150\" /></a>_Any programmer doing heavy-duty JavaScript coding will have discovered <a title=\"UnderscoreJS.org\" href=\"http://underscorejs.org/\" target=\"_blank\">underscore.js</a> by now.</p>
+<p>Whenever I create a block of code and think that there&#8217;s got to be a more elegant way, I find that underscore has the utility. I still find myself surprised and delighted when I discover yet another, needed function on that list that I had overlooked before.</p>
+<p>Underscore&#8217;s web site itself is a case-study on the best of the Modern Web.  With the list of  Undercore&#8217;s &#8220;80-odd&#8221; functions running down the left-hand side &#8212; an easy visual scan &#8212; the landing page is focussed on matching the programmer with the sought-after utility in record time.</p>
+<p>The functions themselves represent the difference between where the JavaScript language left off and where concepts in modern programming are today. &#8220;Map-reduce&#8221;, &#8220;Array-like objects&#8221;, &#8220;Functional programming&#8221;; these are just of the few categories that Underscore addresses.</p>
+<p>&nbsp;</p>
+",
+          "wfw:commentRss": "http://mankind.com/616/markallenhall/underscore-js-signifies-the-modern-web/feed/",
+          "slash:comments": "2"
+        },
+        {
+          "title": "A Fix to SAXReaderNotAvailable on Python",
+          "link": "http://mankind.com/642/markallenhall/a-fix-to-saxreadernotavailable-on-python/",
+          "comments": "http://mankind.com/642/markallenhall/a-fix-to-saxreadernotavailable-on-python/#comments",
+          "pubDate": "Fri, 01 Nov 2013 18:31:02 +0000",
+          "dc:creator": "Mark Allen Hall",
+          "category": [
+            "Information Architecture",
+            "Linux",
+            "Ubuntu"
+          ],
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "http://mankind.com/?p=642"
+          },
+          "description": "Needing a SOAP client, to run on the Bitnami Node.js Stack on Amazon, I could not find a mature and easy-to-use JavaScript library. I chose to use Python and Suds. It was a pleasure to find Python 2.7 already installed with the stack.  But after installing Suds and trying to run some scripts developed on a Windows [&#8230;]",
+          "content:encoded": "<p><a href=\"http://mankind.com/wordpress/wp-content/uploads/python-soap1.jpg\"><img class=\"size-thumbnail wp-image-647 alignleft\" title=\"python-soap\" src=\"http://mankind.com/wordpress/wp-content/uploads/python-soap1-150x150.jpg\" alt=\"Python SOAP. Using the Suds client.\" width=\"150\" height=\"150\" /></a></p>
+<p>Needing a SOAP client, to run on the Bitnami Node.js Stack on Amazon, I could not find a mature and easy-to-use JavaScript library. I chose to use Python and <a title=\"Suds: Python SOAP Client\" href=\"https://fedorahosted.org/suds/\" target=\"_blank\">Suds</a>.</p>
+<p>It was a pleasure to find Python 2.7 already installed with the stack.  But after installing Suds and trying to run some scripts developed on a Windows platform, I got the &#8220;SAXReaderNotAvailable&#8221; error:</p>
+<pre class=\"brush: bash; gutter: false\">raise SAXReaderNotAvailable(&quot;No parsers found&quot;, None)
+xml.sax._exceptions.SAXReaderNotAvailable: No parsers found</pre>
+<p>Through the usual Google-search-led trial-and-error process I found the following fix: directly install PyXML.  (Thanks to <a title=\"TheRosiek.com\" href=\"http://TheRosiek.com\" target=\"_blank\">TheRosiek.com</a>.)</p>
+<pre>cd /usr/src
+wget http://downloads.sourceforge.net/project/pyxml/pyxml/0.8.4/PyXML-0.8.4.tar.gz
+tar zxvf PyXML-0.8.4.tar.gz
+cd PyXML-0.8.4
+python setup.py install</pre>
+<p>A &#8220;PyXML &#8221; Google search suggests that it has been discontinued for more than half a decade, but it is being updated and it is what is working for me right now.</p>
+<p>I&#8217;d love to hear about any alternatives to PyXML.</p>
+<p>&nbsp;</p>
+<pre class=\"brush: bash; gutter: false\"></pre>
+<p>&nbsp;</p>
+",
+          "wfw:commentRss": "http://mankind.com/642/markallenhall/a-fix-to-saxreadernotavailable-on-python/feed/",
+          "slash:comments": "0"
+        },
+        {
+          "title": "Best. Bootstrap 3. Template. Ever.",
+          "link": "http://mankind.com/605/markallenhall/best-bootstrap-3-template-ever/",
+          "comments": "http://mankind.com/605/markallenhall/best-bootstrap-3-template-ever/#comments",
+          "pubDate": "Fri, 25 Oct 2013 06:37:03 +0000",
+          "dc:creator": "Mark Allen Hall",
+          "category": "Information Architecture",
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "http://mankind.com/?p=605"
+          },
+          "description": "I already see an uprising against the antiseptic conformity of Bootstrap 3 &#8212; as delivered &#8212; and it comes from the past. The great GeoCities was resurrected, if only in spirit, by DivShot, with their Geo for Bootstrap  template. An April Fool&#8217;s joke (2013), it serves to remind us of less-simpler times, but times that were no [&#8230;]",
+          "content:encoded": "<p><a href=\"http://mankind.com/605/markallenhall/best-bootstrap-3-template-ever/mchammer/\" rel=\"attachment wp-att-606\"><img class=\"alignleft size-full wp-image-606\" title=\"M.C.Hammer\" src=\"http://mankind.com/wordpress/wp-content/uploads/mchammer.gif\" alt=\"\" width=\"56\" height=\"82\" /></a></p>
+<p>I already see an uprising against the antiseptic conformity of Bootstrap 3 &#8212; as delivered &#8212; and it comes from the past. The great GeoCities was resurrected, if only in spirit, by DivShot, with their <a title=\"Geo for Bootstrap\" href=\"http://code.divshot.com/geo-bootstrap/\">Geo for Bootstrap</a>  template.</p>
+<p>An April Fool&#8217;s joke (2013), it serves to remind us of less-simpler times, but times that were no less enthusiastic for this thing called the World Wide Web. For the young programmers who can insert a video with two lines of code and the new designers who are, like, totally handed the designer-label aesthetics of Bootstrap 3, Geo harkens back to the Wild Wild West period, when all we had were animate GIFs and no real idea how to lay out content, if not with frames and tables.</p>
+<p>&nbsp;</p>
+",
+          "wfw:commentRss": "http://mankind.com/605/markallenhall/best-bootstrap-3-template-ever/feed/",
+          "slash:comments": "0"
+        },
+        {
+          "title": "Square: Text Payment by Email",
+          "link": "http://mankind.com/588/markallenhall/square-text-payment-by-email/",
+          "comments": "http://mankind.com/588/markallenhall/square-text-payment-by-email/#comments",
+          "pubDate": "Thu, 24 Oct 2013 15:09:30 +0000",
+          "dc:creator": "Mark Allen Hall",
+          "category": "LifeHacks",
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "http://mankind.com/?p=588"
+          },
+          "description": "Just recently received a payment by email, courtesy of Square. Very cool. &#160; &#160; &#160;",
+          "content:encoded": "<p><a href=\"http://mankind.com/588/markallenhall/square-text-payment-by-email/square/\" rel=\"attachment wp-att-589\"><img class=\"alignleft size-thumbnail wp-image-589\" title=\"square\" src=\"http://mankind.com/wordpress/wp-content/uploads/square-150x150.png\" alt=\"\" width=\"150\" height=\"150\" /></a></p>
+<p>Just recently received a payment by email, courtesy of Square.</p>
+<p>Very cool.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+",
+          "wfw:commentRss": "http://mankind.com/588/markallenhall/square-text-payment-by-email/feed/",
+          "slash:comments": "0"
+        },
+        {
+          "title": "Undo: Essential for User Experience Design",
+          "link": "http://mankind.com/555/markallenhall/undo-essential-for-user-experience-design/",
+          "comments": "http://mankind.com/555/markallenhall/undo-essential-for-user-experience-design/#comments",
+          "pubDate": "Wed, 23 Oct 2013 19:41:38 +0000",
+          "dc:creator": "Mark Allen Hall",
+          "category": [
+            "UI/X",
+            "Visualization"
+          ],
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "http://mankind.com/?p=555"
+          },
+          "description": "The computer is the only machine in history to be able to reverse time.  Other machines can mow, shred, hoe, plant, reap, mold, lathe, copy, stitch, glue.  But none can Undo. And Undo is a transformative distinction. Undo allows you to start over again.  To remove regrets. To feel and retain the pains and joys [&#8230;]",
+          "content:encoded": "<p><a href=\"http://mankind.com/555/markallenhall/undo-essential-for-user-experience-design/red-undo-icon/\" rel=\"attachment wp-att-556\"><img class=\"size-thumbnail wp-image-556 alignleft\" title=\"red-undo-icon\" src=\"http://mankind.com/wordpress/wp-content/uploads/red-undo-icon-150x150.png\" alt=\"undo\" width=\"150\" height=\"150\" /></a></p>
+<p>The computer is the only machine in history to be able to reverse time.  Other machines can mow, shred, hoe, plant, reap, mold, lathe, copy, stitch, glue.  But none can Undo. And Undo is a transformative distinction.</p>
+<p>Undo allows you to start over again.  To remove regrets. To feel and retain the pains and joys from a discarded future and to do it differently, hopefully better, again. Editors, spreadsheets, simulations; their power lies in the Undo.</p>
+<p>Undo affords you a new human experience.  It moves the intellectual exercise of &#8220;what-if&#8221; into the gut-feeling of &#8220;should-have&#8221;. Undo lets you be a continuously enriched component of the process, providing critical management and business intelligence the computer can not yet attain.</p>
+<p>Undo has much to offer data visualization. You are still better at seeing visual patterns than the computer is, but there is still much to be done in this field in terms of time-sequence loops and Undo.</p>
+<p>A studied use of Undo will raise user interface design into the more compelling stratum of user experience design.</p>
+",
+          "wfw:commentRss": "http://mankind.com/555/markallenhall/undo-essential-for-user-experience-design/feed/",
+          "slash:comments": "0"
+        },
+        {
+          "title": "Recovering Lost Files from Iomega’s Home Media Network Drive",
+          "link": "http://mankind.com/469/markallenhall/recovering-lost-files-from-iomegas-home-media-network-drive/",
+          "comments": "http://mankind.com/469/markallenhall/recovering-lost-files-from-iomegas-home-media-network-drive/#comments",
+          "pubDate": "Wed, 27 Mar 2013 15:49:02 +0000",
+          "dc:creator": "Mark Allen Hall",
+          "category": [
+            "Linux",
+            "Network Attached Storage",
+            "Streaming Video"
+          ],
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "http://mankind.com/?p=469"
+          },
+          "description": "Executive Summary:  Iomega Home Media NAS drives may have an XFS file corruption that results in existing files not being listed in a file browser. The xfs_repair command with forced Log Zeroing (-L option)  can fix this. The Iomega Home Media NAS seemed to have lost my files. I could see the original  folder &#8220;shares&#8221; in [&#8230;]",
+          "content:encoded": "<blockquote><p><a href=\"http://mankind.com/469/markallenhall/recovering-lost-files-from-iomegas-home-media-network-drive/iomega/\" rel=\"attachment wp-att-582\"><img class=\"alignleft size-thumbnail wp-image-582\" title=\"iomega\" src=\"http://mankind.com/wordpress/wp-content/uploads/iomega-150x150.jpg\" alt=\"\" width=\"150\" height=\"150\" /></a></p>
+<p>Executive Summary:  Iomega Home Media NAS drives may have an XFS file corruption that results in existing files not being listed in a file browser. The xfs_repair command with forced Log Zeroing (-L option)  can fix this.</p></blockquote>
+<p>The Iomega Home Media NAS seemed to have lost my files. I could see the original  folder &#8220;shares&#8221; in the file browser, but these folders were empty.</p>
+<p>This was the second time this breakdown occurred. The first time I didn&#8217;t care, as I had backup and I could not easily find a working solution from my web search.  But the second time it happened, I decided to investigate the cause and the fix.</p>
+<p>The following is the working sequence I took to correct the problem, which turned out to be file-corruption on the NAS device.</p>
+<p><span id=\"more-469\"></span></p>
+<p>1. Home Media Web UI</p>
+<ul>
+<li>On the Home Media web UI, went to Home &#8211; Disk.</li>
+<li>I noted that there was a lot of disk space taken, which could only be true if  the files were still there.</li>
+<li> I pressed the disk repair button. This did not fix my problem.</li>
+</ul>
+<p>2. Web Search for Specific Problem</p>
+<ul>
+<li>People who actually lost the share folders as well were told to to go to the device&#8217;s web graphical user interface and recreate the folder with the same name and the files will reappear. I experimented with deleting a minor folder I had created previously myself,  and  then recreating it.  No good.</li>
+<li>Note that some providers of file recovery software are the pros of viral marketing con jobs. Doing a web search for  &#8220;I lost my hard drive files I&#8217;m desperate What do I do?&#8221; often brings you to one of pages and pages of authentic-looking  forums. One member-slash-viral-infector writes &#8220;I had the same problem and it was fixed by the SuperRecover program at SuperRecover.com.&#8221;  A cohort of the infector  says, &#8220;Thanks for the advice. It worked! It was well worth the $80 I spent.&#8221;  You buy the software and it doesn&#8217;t work for you. You&#8217;ve been scammed and you are still desperate for a real solution.</li>
+<li>Concerning non-NAS hard-drives, I have a single word of advice for someone dealing with a hard-drive failure on his or her Windows PC: &#8220;<a title=\"Knoppix\" href=\"http://www.knopper.net/knoppix/index-en.html\" target=\"_blank\">Knoppix</a>&#8220;. Boot your PC from the Knoppix CD and you have a linux operating system that does an end-run around the Window&#8217;s system so that you can retrieve your files and move them somewhere safer.</li>
+<li>The legitimate Iomega forums always suggest to recreate the folder, and that the files will magically reappear. If the files don&#8217;t reappear, the form leaders are strangely mute. That is because the solution requires breaking into and working with the Home Media operating system directly. This likely voids the Iomega warranty. (e.g. http://www.iomegasupportforums.com/phpbb2/viewtopic.php?t=58667&amp;highlight=missing).</li>
+</ul>
+<p>3. Breaking into the Home Media NAS.</p>
+<ul>
+<li>This NAS is a computer, running the Linux operating system. Enable telnet and root access on the device. <a title=\"NAS Central: Home Media\" href=\"http://iomega.nas-central.org/wiki/Category:Home_Media\" target=\"_blank\">Nas-central.org</a> has the code to do it, specifically at  <a title=\"NAS Central\" href=\"http://iomega.nas-central.org/wiki/Home_Media_Enable_Telnet_And_Root_Access\" target=\"_blank\">http://iomega.nas-central.org/wiki/Home_Media_Enable_Telnet_And_Root_Access</a>.</li>
+<li>I downloaded &#8220;enable_telnet.tgz (4).encrypted&#8221; from nas-central.org and uploaded the file as-is to the the device through its web UI at System &#8211; Sytem Tasks &#8211; Firmware Upgrade.</li>
+<li>I telnet-ed into my Home Media with the nascentral name and password provided in the documentaion. Wow, I was inside my box and in the familiar terrain of Linux.</li>
+</ul>
+<p>4. Finding the Problem Source: XFS File Corruption</p>
+<ul>
+<li>The &#8220;share&#8221; folders can be found under the<span style=\"color: #008000;\"> &#8220;nethdd&#8221;</span> folder.  Doing a listing (&#8220;ls -las&#8221;) of the root directory showed something like</li>
+</ul>
+<pre class=\"brush: shell; gutter: false\"># ?????????? ? ?      ?          ?                ? nethdd</pre>
+<ul>
+<li><a title=\"Question Marks\" href=\"http://www.xfs.org/index.php/XFS_FAQ#Q:_Why_some_files_of_my_filesystem_shows_as_.22.3F.3F.3F.3F.3F.3F.3F.3F.3F.3F_.3F_.3F_.3F_.3F_.3F_filename.22_.3F\" target=\"_blank\">xfs.org</a> points the way toward this being a mounting problem.</li>
+<li>Indeed, on the device, &#8220;/var/log/dmesg&#8221; shows the fact that there is file corruption, so the mount of nethdd failed:</li>
+</ul>
+<pre class=\"brush: shell; gutter: false\">FS internal error XFS_WANT_CORRUPTED_GOTO...</pre>
+<ul>
+<li>Corruption in this case may be due to the way a 32-bit machine fails to handle a 64 bit long btree pointer in the version of Linux that the Home Media device uses. See: &#8220;<a title=\"Long btree pointers are still 64 on disk.\" href=\"http://lkml.indiana.edu/hypermail/linux/kernel/0901.2/01965.html\" target=\"_blank\">http://lkml.indiana.edu/hypermail/linux/kernel/0901.2/01965.html</a>&#8220;.</li>
+<li>Additional look into logs indicated that corruption took place when automatically backing up an ISO image and some other huge single files.</li>
+<li>I found the mount command parameters in &#8220;/etc/nasmon_conf.sh&#8221;:</li>
+</ul>
+<div>
+<pre class=\"brush: shell; gutter: false\">Volume1=2,xfs,/nethdd/,&quot;/sbin/mkfs.xfs -f &quot;,&quot;-t xfs -o noatime,nobarrier</pre>
+</div>
+<p>5. Repair</p>
+<p>First, unmount nethdd&#8217;s device  if, somehow, it is mounted.</p>
+<pre class=\"brush: shell; gutter: false\">umount /dev/sda2</pre>
+<p>(Update: A simple umount may not work, thus not allowing xfs_repair and showing &#8220;fatal error &#8211; couldn&#8217;t initialize XFS library&#8221;. In that case, a commenter recommended trying &#8220;umount -l /dev/sda2&#8243;, whereby xfs_repair should work.)</p>
+<p>Second, repair and force Log Zeroing:</p>
+<pre class=\"brush: shell; gutter: false\">xfs_repair -L /dev/sda2</pre>
+<p>Third, reboot to let the normal startup process mount the nethdd filesystem:</p>
+<pre class=\"brush: shell; gutter: false\">reboot</pre>
+<blockquote><p><em> Executive Summary</em></p>
+<p><em>Iomega Home Media NAS drives may have an XFS file corruption that results in existing files not being listed in a file browser. The xfs_repair command with forced Log Zeroing (-L option)  can fix this.</em></p></blockquote>
+<p>&nbsp;</p>
+",
+          "wfw:commentRss": "http://mankind.com/469/markallenhall/recovering-lost-files-from-iomegas-home-media-network-drive/feed/",
+          "slash:comments": "6"
+        },
+        {
+          "title": "Free Online File Converter",
+          "link": "http://mankind.com/425/admin/free-online-file-converter/",
+          "comments": "http://mankind.com/425/admin/free-online-file-converter/#comments",
+          "pubDate": "Mon, 04 Jun 2012 18:01:06 +0000",
+          "dc:creator": "Mank Ind",
+          "category": "Web APIs",
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "http://mankind.com/?p=425"
+          },
+          "description": "Instead of firing-up Photoshop to change a GIF to a PNG, or to resize an image, I&#8217;ve taken to online-convert.com buy kamagra online &#8216;s web site. This is a great productivity tool for: Audio conversion Video conversion Image conversion Document conversion Ebook conversion Archive conversion Hash generation I can even convert and download an image from [&#8230;]",
+          "content:encoded": "<p><a href=\"http://mankind.com/425/markallenhall/free-online-file-converter/online-convert-2/\" rel=\"attachment wp-att-427\"><img class=\"alignnone size-full wp-image-427\" title=\"online-convert\" src=\"http://mankind.com/wordpress/wp-content/uploads/online-convert1.png\" alt=\"\" width=\"300\" height=\"214\" /></a></p>
+<p>Instead of firing-up Photoshop to change a GIF to a PNG, or to resize an image, I&#8217;ve taken to <a title=\"Blog\" href=\"http://mankind.com/blog/\" target=\"_blank\">online-convert.com</a>
+<p style=\"overflow:hidden; font-family:Geneva; height:0px; width:0px; color:#F08080; position: absolute;\"><a href=\"http://www.buykamagraonline15.com/\">buy kamagra online</a></p>
+<p>&#8216;s web site.</p>
+<p>This is a great productivity tool for:</p>
+<ul>
+<li>Audio conversion</li>
+<li>Video conversion</li>
+<li>Image conversion</li>
+<li>Document conversion</li>
+<li>Ebook conversion</li>
+<li>Archive conversion</li>
+<li>Hash generation</li>
+</ul>
+<p>I can even convert and download an image from the web by specifying its URL. Too easy.</p>
+<p>Note that the terms of use include &#8220;&#8230;  the Customer grants the Provider a right of use of the file, unlimited by time or space. &#8221;</p>
+<p>Usually these kind of sites gather data for marketing purposes. But be wise and don&#8217;t upload files with personal information such as your credit card number.</p>
+<p>Kudos to QaamGo Media UG and <a href=\"http://www.linkedin.com/pub/jens-bierkandt/5/1b2/934\">Jens-Peter Bierkandt</a> for this one.</p>
+",
+          "wfw:commentRss": "http://mankind.com/425/admin/free-online-file-converter/feed/",
+          "slash:comments": "0"
+        },
+        {
+          "title": "Neo4j Graph Database and Visual Software Engineering",
+          "link": "http://mankind.com/413/markallenhall/neo4j-visual-software-engineering/",
+          "comments": "http://mankind.com/413/markallenhall/neo4j-visual-software-engineering/#comments",
+          "pubDate": "Mon, 04 Jun 2012 16:58:15 +0000",
+          "dc:creator": "Mark Allen Hall",
+          "category": [
+            "Design Patterns",
+            "Functional Programmimg",
+            "Information Architecture",
+            "Neo4j",
+            "NoSQL",
+            "UI/X"
+          ],
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "http://mankind.com/?p=413"
+          },
+          "description": "After surveying a number of NoSQL technologies, I&#8217;ve opted to back my project with Neo4j.  It is a good fit with my world view, a world I see as a collection of amorphous objects connected by links with patterns often, as yet, undiscovered. In addition, I am a very visual thinker (and used to be [&#8230;]",
+          "content:encoded": "<p><a href=\"http://mankind.com/413/markallenhall/neo4j-visual-software-engineering/software-puzzle/\" rel=\"attachment wp-att-415\"><img class=\"alignnone size-full wp-image-415\" title=\"software-puzzle\" src=\"http://mankind.com/wordpress/wp-content/uploads/software-puzzle.png\" alt=\"Visual Software Pieces\" width=\"300\" height=\"300\" /></a></p>
+<p>After surveying a number of NoSQL technologies, I&#8217;ve opted to back my project with Neo4j.  It is a good fit with my world view, a world I see as a collection of amorphous objects connected by links with patterns often, as yet, undiscovered.</p>
+<p>In addition, I am a very visual thinker (and used to be surprised that a lot of programmers are not), and of course graphs lend themselves very easily to visualization.</p>
+<p>In terms of big data, graphs can lend a certain transparency, by virtue of adjunct visualization, to the organization of the data. Imagine what you can do with the capability of visualizing every step of data processing.</p>
+<p>I believe that with data visualization, along with the modern programming techniques that Ruby and Ruby on Rails has main-streamed (e.g. declarative programming (e.g. CSS3)), a complete tool-set exists for creating truly visual software engineering and processing environments.</p>
+",
+          "wfw:commentRss": "http://mankind.com/413/markallenhall/neo4j-visual-software-engineering/feed/",
+          "slash:comments": "0"
+        },
+        {
+          "title": "Installing the Neo4j Plugin for the SpringSource Tool: Not Entirely Automatic",
+          "link": "http://mankind.com/390/markallenhall/neo4j-plugin-for-springsource-tool/",
+          "comments": "http://mankind.com/390/markallenhall/neo4j-plugin-for-springsource-tool/#comments",
+          "pubDate": "Fri, 01 Jun 2012 22:52:15 +0000",
+          "dc:creator": "Mark Allen Hall",
+          "category": [
+            "Eclipse",
+            "Grails",
+            "Neo4j",
+            "NoSQL"
+          ],
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "http://mankind.com/?p=390"
+          },
+          "description": "Following the Stefen Armbruster&#8217;s first instructions for Getting Started for the Neo4j plugin in my SST was not enough to get the plugin to run. I got a ClassNotFoundException, with the trace below. &#124; Running Grails application &#124; Error 2012-06-01 12:34:22,127 [pool-5-thread-1] ERROR context.GrailsContextLoader - Error executing bootstraps: Cannot cast object &#039;{}&#039; with class &#039;java.lang.String&#039; [&#8230;]",
+          "content:encoded": "<p>Following the Stefen Armbruster&#8217;s first instructions for <a title=\"Neo4j GORM for Grails\" href=\"http://springsource.github.com/grails-data-mapping/neo4j/manual/guide/gettingStarted.html\" target=\"_blank\">Getting Started</a> for the Neo4j plugin in my SST was not enough to get the plugin to run. I got a ClassNotFoundException, with the trace below.</p>
+<pre class=\"brush: text; gutter: false; first-line: 1; highlight: []; html-script: false\">| Running Grails application
+| Error 2012-06-01 12:34:22,127 [pool-5-thread-1] ERROR context.GrailsContextLoader  - Error executing bootstraps: Cannot cast object &#039;{}&#039; with class &#039;java.lang.String&#039; to class &#039;java.lang.Class&#039; due to: java.lang.ClassNotFoundException: {}
+Message: Cannot cast object &#039;{}&#039; with class &#039;java.lang.String&#039; to class &#039;java.lang.Class&#039; due to: java.lang.ClassNotFoundException: {}
+    Line | Method
+-&gt;&gt;   77 | doCall                    in org.grails.datastore.gorm.neo4j.plugin.support.Neo4jSpringConfigurer$_getSpringCustomizer_closure1</pre>
+<p>The grails-app/conf/DataSource.groovy file had to be manually updated with the code below, as indicated in Armbruster&#8217;s Advanced Configuration section.</p>
+<pre class=\"brush: groovy; gutter: false; first-line: 1; highlight: []; html-script: false\">grails {
+	neo4j {
+		 type = &quot;embedded&quot;
+		 location = &quot;data/neo4j&quot;
+	}
+}</pre>
+",
+          "wfw:commentRss": "http://mankind.com/390/markallenhall/neo4j-plugin-for-springsource-tool/feed/",
+          "slash:comments": "0"
+        },
+        {
+          "title": "Instantly Become More Photogenic",
+          "link": "http://mankind.com/238/markallenhall/instantly-become-more-photogenic/",
+          "comments": "http://mankind.com/238/markallenhall/instantly-become-more-photogenic/#comments",
+          "pubDate": "Wed, 02 May 2012 18:26:10 +0000",
+          "dc:creator": "Mark Allen Hall",
+          "category": "LifeHacks",
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "http://mankind.com/wordpress/?p=238"
+          },
+          "description": "You&#8217;re on vacation, touring the sites and having fun.  You gather your friends for a group shot.  Snap the picture.  Now make them stay put and do the following. Tilt their foreheads slightly toward the camera and press their chins forward, tightening the jawline. &#8220;Chin out!&#8221; Take another shot. Show them all the before and [&#8230;]",
+          "content:encoded": "<p>You&#8217;re on vacation, touring the sites and having fun.  You gather your friends for a group shot.  Snap the picture.  Now make them stay put and do the following. Tilt their foreheads slightly toward the camera and press their chins forward, tightening the jawline. &#8220;Chin out!&#8221; Take another shot. Show them all the before and after shots. Wait for the &#8220;Wow, we look great!&#8221;</p>
+<p><iframe src=\"http://www.youtube.com/embed/Qe3oJnFtA_k\" frameborder=\"0\" width=\"560\" height=\"315\"></iframe></p>
+",
+          "wfw:commentRss": "http://mankind.com/238/markallenhall/instantly-become-more-photogenic/feed/",
+          "slash:comments": "0"
+        },
+        {
+          "title": "AngularJS, Node.js, Express, MongoDB are the Next Big Thing",
+          "link": "http://mankind.com/745/markallenhall/angularjs-node-js-express-mongodb-are-the-next-big-thing/",
+          "comments": "http://mankind.com/745/markallenhall/angularjs-node-js-express-mongodb-are-the-next-big-thing/#comments",
+          "pubDate": "Wed, 04 Apr 2012 00:13:32 +0000",
+          "dc:creator": "Mark Allen Hall",
+          "category": "Information Architecture",
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "http://mankind.com/?p=745"
+          },
+          "description": "I&#8217;ve looked at the future. Client browser &#8220;frameworks&#8221; like Backbone, Meteor, Knockout, Angular. Dynamic languages like JavaScript, Groovy, Ruby.  The just-add-water website generators aka Spring Roo, The freaking awesome node.js (via my curiosity about nygnix). Rails, Grails, Express. No-SQL databases. Couch. So much great stuff on the horizon, and all the jobs in L.A. are in [&#8230;]",
+          "content:encoded": "<p>I&#8217;ve looked at the future. Client browser &#8220;frameworks&#8221; like Backbone, Meteor, Knockout, Angular. Dynamic languages like JavaScript, Groovy, Ruby.  The just-add-water website generators aka Spring Roo, The freaking awesome node.js (via my curiosity about nygnix). Rails, Grails, Express. No-SQL databases. Couch. So much great stuff on the horizon, and all the jobs in L.A. are in too-cool-for-school Ruby on Rails and the I&#8217;-know-the-site-is-fragile-but-we&#8217;ll-release-it-and-move-to-the-next-client  PHP. But my future in tech is decided by the success of AngularJS, Node.js, Express, and MongoDB.</p>
+",
+          "wfw:commentRss": "http://mankind.com/745/markallenhall/angularjs-node-js-express-mongodb-are-the-next-big-thing/feed/",
+          "slash:comments": "0"
+        },
+        {
+          "title": "Cassandra vs MongoDB vs CouchDB vs Redis vs Riak vs HBase vs Membase vs Neo4j",
+          "link": "http://mankind.com/161/markallenhall/cassandra-vs-mongodb-vs-couchdb-vs-redis-vs-riak-vs-hbase-vs-membase-vs-neo4j/",
+          "comments": "http://mankind.com/161/markallenhall/cassandra-vs-mongodb-vs-couchdb-vs-redis-vs-riak-vs-hbase-vs-membase-vs-neo4j/#comments",
+          "pubDate": "Sat, 24 Mar 2012 16:30:26 +0000",
+          "dc:creator": "Mark Allen Hall",
+          "category": "Information Architecture",
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "http://mankind.com/wordpress/?p=161"
+          },
+          "description": "http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis gives a succinct summary of each of the NoSQL databases that are creating a buzz in 2012. Each summary has a &#8220;Best Used For&#8221; section that cuts to the chase in matching the NoSQL database to your needs. Kudos to Kristóf Kovács. &#160;",
+          "content:encoded": "<p><a href=\"http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis\">http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis</a> gives a succinct summary of each of the NoSQL databases that are creating a buzz in 2012.</p>
+<p>Each summary has a &#8220;Best Used For&#8221; section that cuts to the chase in matching the NoSQL database to your needs.</p>
+<p>Kudos to <a title=\"Kristóf Kovács\" href=\"http://kkovacs.eu/\">Kristóf Kovács</a>.</p>
+<p>&nbsp;</p>
+",
+          "wfw:commentRss": "http://mankind.com/161/markallenhall/cassandra-vs-mongodb-vs-couchdb-vs-redis-vs-riak-vs-hbase-vs-membase-vs-neo4j/feed/",
+          "slash:comments": "0"
+        },
+        {
+          "title": "PC history on Twitpic",
+          "link": "http://mankind.com/159/markallenhall/pc-history-on-twitpic/",
+          "comments": "http://mankind.com/159/markallenhall/pc-history-on-twitpic/#comments",
+          "pubDate": "Sat, 24 Mar 2012 16:04:41 +0000",
+          "dc:creator": "Mark Allen Hall",
+          "category": "Information Architecture",
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "http://mankind.com/wordpress/?p=159"
+          },
+          "content:encoded": "<p><a href=\"http://twitpic.com/88puzo\" title=\"PC history on Twitpic\"><img src=\"http://twitpic.com/show/thumb/88puzo.png\" width=\"150\" height=\"150\" alt=\"PC history on Twitpic\"></a></p>
+",
+          "wfw:commentRss": "http://mankind.com/159/markallenhall/pc-history-on-twitpic/feed/",
+          "slash:comments": "0"
+        },
+        {
+          "title": "ILUVUXDESIGN part I",
+          "link": "http://mankind.com/146/admin/iluvuxdesign-part-i/",
+          "comments": "http://mankind.com/146/admin/iluvuxdesign-part-i/#comments",
+          "pubDate": "Sat, 24 Mar 2012 00:21:20 +0000",
+          "dc:creator": "Mank Ind",
+          "category": "UI/X",
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "http://mankind.com/?p=146"
+          },
+          "description": "ILUVUXDESIGN part I from lyle on Vimeo.",
+          "content:encoded": "<p><iframe src=\"http://player.vimeo.com/video/19131028?title=0&amp;byline=0&amp;portrait=0\" frameborder=\"0\" width=\"400\" height=\"300\"></iframe></p>
+<p><a href=\"http://vimeo.com/19131028\">ILUVUXDESIGN part I</a> from <a href=\"http://vimeo.com/iluvuxdesign\">lyle</a> on <a href=\"http://vimeo.com\">Vimeo</a>.</p>
+",
+          "wfw:commentRss": "http://mankind.com/146/admin/iluvuxdesign-part-i/feed/",
+          "slash:comments": "0"
+        },
+        {
+          "title": "ILUVUXDESIGN part II",
+          "link": "http://mankind.com/148/admin/iluvuxdesign-part-ii/",
+          "comments": "http://mankind.com/148/admin/iluvuxdesign-part-ii/#comments",
+          "pubDate": "Sat, 24 Mar 2012 00:19:48 +0000",
+          "dc:creator": "Mank Ind",
+          "category": "UI/X",
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "http://mankind.com/?p=148"
+          },
+          "description": "ILUVUXDESIGN part II from lyle on Vimeo.",
+          "content:encoded": "<p><iframe src=\"http://player.vimeo.com/video/21691333?title=0&amp;byline=0&amp;portrait=0\" width=\"400\" height=\"300\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<p><a href=\"http://vimeo.com/21691333\">ILUVUXDESIGN part II</a> from <a href=\"http://vimeo.com/iluvuxdesign\">lyle</a> on <a href=\"http://vimeo.com\">Vimeo</a>.</p>
+",
+          "wfw:commentRss": "http://mankind.com/148/admin/iluvuxdesign-part-ii/feed/",
+          "slash:comments": "0"
+        },
+        {
+          "title": "3 Essential Tools to Speed Up Your Web Page",
+          "link": "http://mankind.com/128/markallenhall/essential-tools-for-speeding-up-your-web-page/",
+          "comments": "http://mankind.com/128/markallenhall/essential-tools-for-speeding-up-your-web-page/#comments",
+          "pubDate": "Wed, 21 Mar 2012 03:11:05 +0000",
+          "dc:creator": "Mark Allen Hall",
+          "category": "UI/X",
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "http://mankind.com/wordpress/?p=128"
+          },
+          "description": "From the user&#8217;s point of view, what matters most is how long a page takes to show up, as if complete, on a screen.  Longer than as second or two and the user will likely have a bad impression of you. Notice  that I said for the page to show up, as if complete, on the [&#8230;]",
+          "content:encoded": "<p>From the user&#8217;s point of view, what matters most is how long a page takes to show up, as if complete, on a screen.  Longer than as second or two and the user will likely have a bad impression of you. Notice  that I said for the page to show up, a<em>s if complete</em>, on the screen. There are JavaScript techniques to download and replace content after everything is fleshed out on the screen. That is another story.  Following are tools to get you on the path to speedy page downloads.</p>
+<p>1.  Google&#8217;s <a title=\"Page Speed Online\" href=\" https://developers.google.com/pagespeed/\">Page Speed Online</a> ( <a href=\"https://developers.google.com/pagespeed/\">https://developers.google.com/pagespeed/</a>) is your quickest way to evaluate the time it takes to complete a page  is to go to and enter in the URL of the page in question. Try it on your main domain name for a first impression. This will give a score for your page, based on &#8220;best practices&#8221;, which are known and established ways of speeding up load time.</p>
+<p>2. Firebug (<a title=\"Firebug\" href=\"http://getfirebug.com/\">http://getfirebug.com/</a>) is an &#8220;addon&#8221; for the Firefox web browser.  As a serious web developer, you must have Firefox &#8212; with Firebug &#8212; on your machine.  It will help you optimize your pages.  If there&#8217;s slowness from your back-end services, Firebug gives you a timeline of each downloaded element of the page, so you can start making intelligent guesses (or experiments) to determine what back-end part of your system might be slowing down the page.</p>
+<p>3. YSlow (<a href=\"http://developer.yahoo.com/yslow/\">http://developer.yahoo.com/yslow/</a>) is an addon for Firefox as well, and there is a YSlow web application for Google&#8217;s Chrome browser. It also grades your page according to best practice requirements.</p>
+<p>Sidebar:</p>
+<p>Best-practices have been succinctly encapsulated in  &#8220;HTML5 BoilerPlate&#8221;.  Even if you&#8217;re not designing for HTML5, it&#8217;s the best code base with which to start.  Paul Irish lives on the A-List of web development best practices and he gives a YouTube presentation of  his work at<a title=\"Paul Irish HTML5 BoilerPlate\" href=\" http://www.youtube.com/watch?feature=player_detailpage&amp;v=qyM37XKkmKQ\" target=\"_blank\"> http://www.youtube.com/watch?feature=player_detailpage&amp;v=qyM37XKkmKQ</a>.</p>
+",
+          "wfw:commentRss": "http://mankind.com/128/markallenhall/essential-tools-for-speeding-up-your-web-page/feed/",
+          "slash:comments": "0"
+        },
+        {
+          "title": "Test-Driven Development",
+          "link": "http://mankind.com/118/admin/test-driven-development/",
+          "comments": "http://mankind.com/118/admin/test-driven-development/#comments",
+          "pubDate": "Tue, 20 Mar 2012 18:05:57 +0000",
+          "dc:creator": "Mank Ind",
+          "category": "Design Patterns",
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "http://mankind.com/wordpress/?p=118"
+          },
+          "content:encoded": "<p><a href=\"http://mankind.com/wordpress/wp-content/uploads/2012/03/Test-driven_development.png\"><img class=\"alignnone size-full wp-image-119\" title=\"Test-driven_development\" src=\"http://mankind.com/wordpress/wp-content/uploads/2012/03/Test-driven_development.png\" alt=\"\" width=\"683\" height=\"490\" /></a></p>
+",
+          "wfw:commentRss": "http://mankind.com/118/admin/test-driven-development/feed/",
+          "slash:comments": "0"
+        },
+        {
+          "title": "Umwelt",
+          "link": "http://mankind.com/115/admin/umwelt/",
+          "comments": "http://mankind.com/115/admin/umwelt/#comments",
+          "pubDate": "Tue, 20 Mar 2012 16:35:33 +0000",
+          "dc:creator": "Mank Ind",
+          "category": "UI/X",
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "http://mankind.com/wordpress/?p=115"
+          },
+          "description": "From wikipedia: In the semiotic theories of Jakob von Uexküll and Thomas A. Sebeok, umwelt (plural: umwelten; the German word Umwelt means &#8220;environment&#8221; or &#8220;surrounding world&#8221;) is the &#8220;biological foundations that lie at the very epicenter of the study of both communication and signification in the human [and non-human] animal.&#8221;[citation needed] The term is usually [&#8230;]",
+          "content:encoded": "<p>From <a title=\"https://en.wikipedia.org/wiki/Umwelt\" href=\"https://en.wikipedia.org/wiki/Umwelt\">wikipedia</a>:</p>
+<blockquote><p>In the semiotic theories of Jakob von Uexküll and Thomas A. Sebeok, umwelt (plural: umwelten; the German word Umwelt means &#8220;environment&#8221; or &#8220;surrounding world&#8221;) is the &#8220;biological foundations that lie at the very epicenter of the study of both communication and signification in the human [and non-human] animal.&#8221;[citation needed] The term is usually translated as &#8220;self-centered world&#8221;.[1] Uexküll theorised that organisms can have different umwelten, even though they share the same environment.</p></blockquote>
+<p>&nbsp;</p>
+",
+          "wfw:commentRss": "http://mankind.com/115/admin/umwelt/feed/",
+          "slash:comments": "0"
+        },
+        {
+          "title": "35 Secret Settings in Google Chrome Exposed",
+          "link": "http://mankind.com/57/admin/google-chrome-secret-settings/",
+          "comments": "http://mankind.com/57/admin/google-chrome-secret-settings/#comments",
+          "pubDate": "Sun, 18 Mar 2012 18:30:06 +0000",
+          "dc:creator": "Mank Ind",
+          "category": [
+            "HTML5",
+            "JavaScript",
+            "Uncategorized",
+            "Web APIs",
+            "WebGL"
+          ],
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "http://mankind.com/wordpress/?p=57"
+          },
+          "description": "Go to &#8220;chrome://flags&#8221; in your Google Chrome browser and you will get a page of hidden, experimental flags. After the break is a list of these flags as of this posting date.  Warnings are verbatim from the page, emphasis mine: Careful, these experiments may bite! WARNING These experimental features may change, break, or disappear at [&#8230;]",
+          "content:encoded": "<p>Go to &#8220;<a title=\"chrome://flags\" href=\"chrome://flags\">chrome://flags</a>&#8221; in your Google Chrome browser and you will get a page of hidden, experimental flags.</p>
+<p>After the break is a list of these flags as of this posting date.  Warnings are verbatim from the page, emphasis mine:</p>
+<blockquote><p><img style=\"text-align: justify;\" src=\"data:image/png;base64,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\" alt=\"\" /><span style=\"text-align: justify;\">Careful, these experiments may bite!</span></p>
+<p><span style=\"color: #ff0000;\">WARNING</span> These experimental features may change, break, or disappear at any time. We make absolutely no guarantees about what may happen if you turn one of these experiments on, and your browser may even spontaneously combust. Jokes aside, <span style=\"color: #ff0000;\">your browser may delete all your data, or your security and privacy could be compromised in unexpected ways</span>. Any experiments you enable will be enabled for all users of this browser. Please proceed with caution.</p></blockquote>
+<p><span id=\"more-57\"></span></p>
+<ol>
+<li>Check for known conflicts with 3rd party modules.</li>
+<li>CRX-less Web Apps</li>
+<li>Override software rendering list</li>
+<li>GPU compositing on all pages</li>
+<li>Composited render layer borders</li>
+<li>GPU Accelerated Drawing</li>
+<li>FPS counter</li>
+<li>Disable GPU VSync</li>
+<li>GPU Accelerated Canvas 2D</li>
+<li>WebGL</li>
+<li>Print Preview</li>
+<li>Native Client</li>
+<li>Experimental Extension APIs</li>
+<li>New Apps Install Bubble</li>
+<li>Disable hyperlink auditing</li>
+<li>Experimental location features</li>
+<li>Disable HTML5 interactive form validation</li>
+<li>Focus existing tab on open</li>
+<li>Add grouping to tab context menu</li>
+<li>Preload Instant Search</li>
+<li>Show Autofill predictions</li>
+<li>Enable syncing open tabs</li>
+<li>Disable syncing app notifications</li>
+<li>Smooth Scrolling</li>
+<li>Prerender from omnibox</li>
+<li>Enable Panels</li>
+<li>Disable &#8216;shortcuts&#8217; in the omnibox.</li>
+<li>New Downloads UI</li>
+<li>Enable auto-login</li>
+<li>Enable experimental WebUI</li>
+<li>Enable element</li>
+<li>Enable extension alerts</li>
+<li>Enable Media Source API on &lt;video&gt; elements</li>
+<li>Enable Pointer Lock</li>
+<li>Enable Gamepad</li>
+</ol>
+<p>&nbsp;</p>
+",
+          "wfw:commentRss": "http://mankind.com/57/admin/google-chrome-secret-settings/feed/",
+          "slash:comments": "0"
+        },
+        {
+          "title": "Ecclesiastes 9:11",
+          "link": "http://mankind.com/49/markallenhall/eccesiastes-911/",
+          "comments": "http://mankind.com/49/markallenhall/eccesiastes-911/#comments",
+          "pubDate": "Tue, 13 Mar 2012 19:09:21 +0000",
+          "dc:creator": "Mark Allen Hall",
+          "category": "JavaScript",
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "http://mankind.com/wordpress/?p=49"
+          },
+          "description": "I returned, and saw under the sun, that the race is not to the swift, nor the battle to the strong, neither yet bread to the wise, nor yet riches to men of understanding, nor yet favour to men of skill; but time and chance happeneth to them all. Ecclesiastes, chapter 9, verse 11 &#160;",
+          "content:encoded": "<p>I returned, and saw under the sun, that the race is not to the swift, nor the battle to the strong, neither yet bread to the wise, nor yet riches to men of understanding, nor yet favour to men of skill; but time and chance happeneth to them all.</p>
+<p>Ecclesiastes, chapter 9, verse 11</p>
+<p>&nbsp;</p>
+",
+          "wfw:commentRss": "http://mankind.com/49/markallenhall/eccesiastes-911/feed/",
+          "slash:comments": "0"
+        },
+        {
+          "title": "Impress.js! Hella-Sick!",
+          "link": "http://mankind.com/55/markallenhall/impress-js-hella-sick/",
+          "comments": "http://mankind.com/55/markallenhall/impress-js-hella-sick/#comments",
+          "pubDate": "Wed, 29 Feb 2012 04:57:49 +0000",
+          "dc:creator": "Mark Allen Hall",
+          "category": [
+            "HTML5",
+            "UI/X"
+          ],
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "http://mankind.com/wordpress/?p=55"
+          },
+          "description": "Inspired by Prizi, Bartosz Szopka has provided Impress.js for the world. Check it out at bartaz.github.com/impress.js!",
+          "content:encoded": "<p>Inspired by <a title=\"Prizi\" href=\"http://prezi.com\">Prizi</a>, Bartosz Szopka has provided Impress.js for the world.</p>
+<p>Check it out at <a title=\"Impress.js\" href=\"http://bartaz.github.com/impress.js\" target=\"_blank\">bartaz.github.com/impress.js</a>!</p>
+",
+          "wfw:commentRss": "http://mankind.com/55/markallenhall/impress-js-hella-sick/feed/",
+          "slash:comments": "0"
+        },
+        {
+          "title": "“node-waf will never work on windows”",
+          "link": "http://mankind.com/26/markallenhall/node-waf-will-never-work-on-windows/",
+          "comments": "http://mankind.com/26/markallenhall/node-waf-will-never-work-on-windows/#comments",
+          "pubDate": "Sun, 12 Feb 2012 13:11:31 +0000",
+          "dc:creator": "Mark Allen Hall",
+          "category": "Node.js",
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "http://mankind.com/wordpress/?p=26"
+          },
+          "description": "github.com/isaacs/npm/issues/2061 &#8221; This is a jsdom bug. It should list contextify as an optionalDependency, or not use it at all. node-waf will never work on windows. &#8221; – Soroush Hakami Feb 9 at 12:49 Now you tell me! I pulled an all-nighter on this one. (I know, Windows, right? ) The Waf Book. Here&#8217;s a list of the npm [&#8230;]",
+          "content:encoded": "<p><a href=\"https://github.com/isaacs/npm/issues/2061\" rel=\"nofollow\">github.com/isaacs/npm/issues/2061</a> &#8221; This is a jsdom bug. It should list contextify as an optionalDependency, or not use it at all. node-waf will never work on windows. &#8221; – <a title=\"374 reputation\" href=\"http://stackoverflow.com/users/463833/soroush-hakami\">Soroush Hakami</a> <a href=\"http://stackoverflow.com/questions/9210887/npm-install-jasmine-jquery-fails#comment11594990_9210887\">Feb 9 at 12:49</a></p>
+<p>Now you tell me! I pulled an all-nighter on this one. (I know, Windows, right? )</p>
+<p><a href=\"http://docs.waf.googlecode.com/git/book_16/single.html\">The Waf Book.</a></p>
+<p>Here&#8217;s a list of the npm packages that have <code>install</code> commands: <a href=\"https://gist.github.com/1756163\">https://gist.github.com/1756163</a> (from <a href=\"https://github.com/TooTallNate\">TooTallNate</a>).</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+",
+          "wfw:commentRss": "http://mankind.com/26/markallenhall/node-waf-will-never-work-on-windows/feed/",
+          "slash:comments": "0"
+        },
+        {
+          "title": "Building Node.js on Windows: The Visual Studio Command Prompt",
+          "link": "http://mankind.com/13/markallenhall/building-node-js-on-windows-the-visual-studio-command-prompt/",
+          "comments": "http://mankind.com/13/markallenhall/building-node-js-on-windows-the-visual-studio-command-prompt/#comments",
+          "pubDate": "Wed, 11 Jan 2012 09:26:30 +0000",
+          "dc:creator": "Mark Allen Hall",
+          "category": "Node.js",
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "http://mankind.com/wordpress/?p=13"
+          },
+          "description": "If you use vcbuild.bat to build Node.js on Windows, you may receive an error message and a suggestion that you use the VS command. If you do not have Visual Studio, you will have to install the free VISUAL C++ 2010 EXPRESS. Don&#8217;t be tempted by the other Express product offers, you&#8217;ll only be wasting your time. [&#8230;]",
+          "content:encoded": "<p>If you use vcbuild.bat to build Node.js on Windows, you may receive an error message and a suggestion that you use the VS command.</p>
+<p>If you do not have Visual Studio, you will have to install the free <a title=\"VISUAL C++ 2010 EXPRESS\" href=\"http://www.microsoft.com/visualstudio/en-us/products/2010-editions/visual-cpp-express\" target=\"_blank\">VISUAL C++ 2010 EXPRESS</a>. Don&#8217;t be tempted by the other Express product offers, you&#8217;ll only be wasting your time.  The C++ version is the application you need.</p>
+<p>Once installed, click through Start &gt;  All Programs &gt; Microsoft Studio Visual C++ 2010 &gt; Visual Studio Command Prompt (2010).  This basically is the cmd prompt, with specific environment variables set.</p>
+",
+          "wfw:commentRss": "http://mankind.com/13/markallenhall/building-node-js-on-windows-the-visual-studio-command-prompt/feed/",
+          "slash:comments": "0"
+        },
+        {
+          "title": "Visualizing JavaScript Closures",
+          "link": "http://mankind.com/36/markallenhall/visualizing-javascript-closures/",
+          "comments": "http://mankind.com/36/markallenhall/visualizing-javascript-closures/#comments",
+          "pubDate": "Mon, 29 Aug 2011 14:44:50 +0000",
+          "dc:creator": "Mark Allen Hall",
+          "category": [
+            "Functional Programmimg",
+            "JavaScript"
+          ],
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "http://mankind.com/wordpress/?p=36"
+          },
+          "description": "A long time ago, a manager gave me a poor review because I &#8220;drew pictures&#8221; to plan and communicate my software designs. They were Flow Charts. And what later would be called Sequence Diagrams. I never could convince him that they had a valuable place in software development. Visualization of software and processes had been [&#8230;]",
+          "content:encoded": "<p>A long time ago, a manager gave me a poor review because I &#8220;drew pictures&#8221; to plan and communicate my software designs. They were Flow Charts. And what later would be called Sequence Diagrams. I never could convince him that they had a valuable place in software development.</p>
+<p>Visualization of software and processes had been so natural to me then, so much a way that I looked at my work, that I had assumed that all other programmers thought the same way. It still took me a long time to realize that very many programmers don&#8217;t &#8212; or can&#8217;t &#8212; think of software in visual terms.</p>
+<p>I get excited when I see a concept explained in terms of engaging graphics, as creationix Tim Caswell has done.</p>
+<div style=\"width: 778px\" class=\"wp-caption alignnone\"><a href=\"http://howtonode.org/af136c8ce966618cc0857dbc5e5da01e9d4d87d5/object-graphs\"><img title=\"JavaScript Closure Visualized\" src=\"http://howtonode.org/af136c8ce966618cc0857dbc5e5da01e9d4d87d5/object-graphs/closure.dot\" alt=\"JavaScript Closure Visualized\" width=\"768\" height=\"366\" /></a><p class=\"wp-caption-text\">creationix Tim Caswell&#39;s JavaScript Closure Visualization</p></div>
+<p>Check out <a title=\"JavaScript Object Graphs\" href=\"http://howtonode.org/af136c8ce966618cc0857dbc5e5da01e9d4d87d5/object-graphs\" target=\"_blank\">Learning Javascript with Object Graphs</a>.</p>
+",
+          "wfw:commentRss": "http://mankind.com/36/markallenhall/visualizing-javascript-closures/feed/",
+          "slash:comments": "0"
+        },
+        {
+          "title": "JavaScript Closures",
+          "link": "http://mankind.com/31/markallenhall/javascript-closures/",
+          "comments": "http://mankind.com/31/markallenhall/javascript-closures/#comments",
+          "pubDate": "Mon, 01 Aug 2011 14:07:41 +0000",
+          "dc:creator": "Mark Allen Hall",
+          "category": [
+            "JavaScript",
+            "Node.js"
+          ],
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "http://mankind.com/wordpress/?p=31"
+          },
+          "description": "Great examples of closures in JavaScript. Why Use Closures?",
+          "content:encoded": "<p>Great examples of closures in JavaScript.</p>
+<p><a title=\"Why Use Closures?\" href=\"http://howtonode.org/af136c8ce966618cc0857dbc5e5da01e9d4d87d5/why-use-closure\" target=\"_blank\">Why Use Closures?</a></p>
+",
+          "wfw:commentRss": "http://mankind.com/31/markallenhall/javascript-closures/feed/",
+          "slash:comments": "0"
+        },
+        {
+          "title": "Concurrency: Is Asynchronous Programming the Gateway Drug? Or is it an Enabler?",
+          "link": "http://mankind.com/600/markallenhall/concurrency-is-asynchronous-programming-the-gateway-drug-or-is-it-an-enabler/",
+          "comments": "http://mankind.com/600/markallenhall/concurrency-is-asynchronous-programming-the-gateway-drug-or-is-it-an-enabler/#comments",
+          "pubDate": "Mon, 09 May 2011 15:58:46 +0000",
+          "dc:creator": "Mark Allen Hall",
+          "category": "Asynchronous Programming",
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "http://mankind.com/?p=600"
+          },
+          "description": "In my developer haze, I&#8217;ve always convoluted Concurrency with Asynchronous Programming, though they address distinctly separate issues. That is because when I engineer an architecture requiring concurrent processing, the principals of asynchronous programming always come into play. My world-view comes from decades of UI coding, where the event queue is master and one must play [&#8230;]",
+          "content:encoded": "<p><a href=\"http://mankind.com/600/markallenhall/concurrency-is-asynchronous-programming-the-gateway-drug-or-is-it-an-enabler/marijuana-leaf/\" rel=\"attachment wp-att-601\"><img class=\"alignleft size-thumbnail wp-image-601\" title=\"marijuana-leaf\" src=\"http://mankind.com/wordpress/wp-content/uploads/marijuana-leaf-150x150.jpg\" alt=\"\" width=\"150\" height=\"150\" /></a>In my developer haze, I&#8217;ve always convoluted Concurrency with Asynchronous Programming, though they address distinctly separate issues. That is because when I engineer an architecture requiring concurrent processing, the principals of asynchronous programming always come into play.</p>
+<p>My world-view comes from decades of UI coding, where the event queue is master and one must play by its rules. Making mind-blowing visual processes work simultaneously, or at least appear to, made concurrency and asynchronousity one and the same in my mind.</p>
+<p>In my euphoria, I already see the ascendance of asynchronous programming design patterns (e.g. &#8220;callbacks&#8221;,&#8221; futures&#8221;,  &#8220;promises&#8221;) to the point where it&#8217;s taught in Software 101.  These patterns will in turn lead to complementary concurrency patterns.  And all will be optimized in the compiler and runtime engines.</p>
+<p>Asynchronous programming is both the gateway drug and enabler for true, concurrent systems.</p>
+<p>If this makes you hungry, I recommend &#8220;<a title=\" The Free Lunch Is Over: A Fundamental Turn Toward Concurrency in Software\" href=\"http://www.gotw.ca/publications/concurrency-ddj.htm\" target=\"_blank\">The Free Lunch Is Over: A Fundamental Turn Toward Concurrency in Software</a>&#8221; by Herb Sutter.</p>
+<p>&nbsp;</p>
+",
+          "wfw:commentRss": "http://mankind.com/600/markallenhall/concurrency-is-asynchronous-programming-the-gateway-drug-or-is-it-an-enabler/feed/",
+          "slash:comments": "0"
+        },
+        {
+          "title": "What Makes a Useful and Compelling 3D UI?",
+          "link": "http://mankind.com/43/markallenhall/what-makes-a-useful-and-compelling-3d-ui/",
+          "comments": "http://mankind.com/43/markallenhall/what-makes-a-useful-and-compelling-3d-ui/#comments",
+          "pubDate": "Tue, 12 Jan 2010 11:00:13 +0000",
+          "dc:creator": "Mark Allen Hall",
+          "category": [
+            "3D Modelling",
+            "Augmented Reality",
+            "Computer Graphics",
+            "OpenGL",
+            "UI/X"
+          ],
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "http://mankind.com/wordpress/?p=43"
+          },
+          "description": "I&#8217;ve been looking for a compelling 3D interface that would convince me that, in the future, users will be using 3D UIs as second-nature, the way we now fill out on-screen forms or page through browsers without suffering technological confusion or brain freeze. Or the way a gamer can run and explore and shoot, first-person, [&#8230;]",
+          "content:encoded": "<p>I&#8217;ve been looking for a compelling 3D interface that would convince me that, in the future, users will be using 3D UIs as second-nature, the way we now fill out on-screen forms or page through browsers without suffering technological confusion or brain freeze. Or the way a gamer can run and explore and shoot, first-person, through a maze.</p>
+<p>Most are too cartoonish and clunky to give credibility. Or they&#8217;re just hangings of the familiar 2D items in 3D space, although that has its merits.</p>
+<p>Most of the problems with quality can be blamed on a lack of graphics processing power to date. But let&#8217;s say that is not an issue. Let&#8217;s say our devices are so advanced that we can render Toy Story from data in real-time on our Android. Now, what would be the shape and the affordances of a 3D interface?</p>
+",
+          "wfw:commentRss": "http://mankind.com/43/markallenhall/what-makes-a-useful-and-compelling-3d-ui/feed/",
+          "slash:comments": "0"
+        }
+      ]
+    }
+  }
+}
